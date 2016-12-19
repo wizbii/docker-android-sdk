@@ -10,3 +10,5 @@ No `ant`, `maven`, nor `android-ndk` are included.
 * Android Support Libraries
 * Google Play Services
 * ConstraintLayout
+
+Based on: https://github.com/gfx/docker-android-project
